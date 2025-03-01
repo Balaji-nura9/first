@@ -1,4 +1,4 @@
-## Hello, git from dev-jsm created conflict
+## Hello, git from dev-jsm
 
 from- johnny
 -hi iam addin this feacture branch
