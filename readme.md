@@ -1,4 +1,4 @@
-## Hello, git from dev-jsm
+## Hello, git from super conflict in adrian
 
 from- johnny
 -hi iam addin this feacture branch
