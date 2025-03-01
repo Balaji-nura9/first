@@ -1,7 +1,6 @@
-## welcome to git
+## Hello, git from dev-jsm completed
 
--this is comming from dev-adrian
-
+from- johnny
 -hi iam addin this feacture branch
 
 typing only push commit
